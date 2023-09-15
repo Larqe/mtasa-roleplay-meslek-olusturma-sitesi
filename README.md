@@ -1,4 +1,4 @@
-# mtasa-roleplay-meslek-olu-turma-sitesi
+# mtasa-roleplay-meslek-olusturma-sitesi
 
 😎 Öncelikle Selamlar Bu Sitenin Amacı Mta Sa Roleplay Sunucuları İçin Kolay Meslek Oluşturma Sitesidir Tamamen Bana Aittir Bilginize MİT Lisansı İle korunmaktadır 
 
