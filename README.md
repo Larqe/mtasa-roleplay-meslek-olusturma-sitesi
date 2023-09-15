@@ -6,7 +6,7 @@
 
 Projeyi Değiştirip Satmak vb işler yapmak kesinlikle yasaktır izin için dc = larqe
 almazsan olacaklardan sorumlu değilim
-ve de eğer kötü amaçla filan kullanılırsasorumluluk da kabul etmemekle beraber şahsım tabi tutulamaz
+ve de eğer kötü amaçla filan kullanılırsa sorumluluk da kabul etmemekle beraber şahsım tabi tutulamaz
 
 📢 Uyarı !! 
 
