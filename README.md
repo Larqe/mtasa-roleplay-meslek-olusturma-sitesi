@@ -6,3 +6,7 @@
 
 Projeyi Değiştirip Satmak vb işler yapmak kesinlikle yasaktır izin için dc = larqe
 almazsan hiçbir sorumluluk kabul etmiyorum
+
+📢 Uyarı !! 
+
+Proje GNU Genel Kamu Lisansı (GPL) İle Korunmaktadır Türkçe Karşılığı İnternette Sunulmaktadır
